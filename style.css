@@ -10,5 +10,9 @@ color: purple;
 }
 .nav {
     list-style-type: none;
+    background-color: brown;
+    padding: 30px;
+    margin-bottom: 50px;
 }
+
     
